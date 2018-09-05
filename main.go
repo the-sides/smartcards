@@ -3,7 +3,7 @@ import(
 	"net/http"
 	"log"
 	"github.com/julienschmidt/httprouter"
-	"github.com/zcaps/smartslides/statichandlers"
+	"github.com/the-sides/smartslides/statichandlers"
 )
 func main() {
 	router := httprouter.New()
