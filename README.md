@@ -1,6 +1,7 @@
 # Concisely
 A web application for interactive note cards targetting public speaking
 
+![Demo gif](concisely.gif)
 
 ## Node Dependancies:
 `npm install @google-cloud/speech express ejs dotenv socket.io mongodb`
